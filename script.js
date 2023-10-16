@@ -2,5 +2,5 @@
 	document.addEventListener("DOMContentLoaded", function() {
     setTimeout(function() {
         Webflow.require("ix2").init();
-    }, 200);
+    }, 150);
 });
